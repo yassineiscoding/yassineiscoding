@@ -8,9 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-el-badraoui) 
 
 # 💻 Tech Stack:
-Here's the reordered list of technologies, grouped by utility and domain:
-
-
+\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
